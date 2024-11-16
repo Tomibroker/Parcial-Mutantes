@@ -12,7 +12,6 @@ GET https://parcial-mutantes-c9rr.onrender.com/stats
 Response: { “count_mutant_dna”:40, “count_human_dna”:100, “ratio”:0.4 }
 
 
-## CÓMO EJECUTAR LA API MUTANT ?
 
 -- LOCAL --
 
