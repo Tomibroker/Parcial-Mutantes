@@ -1,4 +1,4 @@
-POST https://parcial-mutantes-c9rr.onrender.com/mutant/ { "dna": ["AAAA", "CCCC", "TCAT", "AGGA"] }
+POST https://parcial-mutantes-tdlh.onrender.com/mutant/ { "dna": ["AAAA", "CCCC", "TCAT", "AGGA"] }
 
 Response: 200-OK Es un mutante
 
@@ -7,7 +7,7 @@ Response: 200-OK Es un mutante
       - 403-Forbidden cuando no mutante.
 
 
-GET https://parcial-mutantes-c9rr.onrender.com/stats
+GET https://parcial-mutantes-tdlh.onrender.com/stats
 
 Response: { “count_mutant_dna”:40, “count_human_dna”:100, “ratio”:0.4 }
 
@@ -27,7 +27,7 @@ Response: { “count_mutant_dna”:40, “count_human_dna”:100, “ratio”:0.
 
 DEPLOY RENDER
 
-https://parcial-mutantes-c9rr.onrender.com
+https://parcial-mutantes-tdlh.onrender.com/
 
 
 
